@@ -1,7 +1,7 @@
-# lesson 2 homework
+# lesson 2 homework Ver.2.0
 
 #variables assign:
-
+f = 10
 a, b, c, d, e = 1, -3, 4.567, True, False
 k = ['a', 'b', 'c', 'd', 'e']
 j = 0
